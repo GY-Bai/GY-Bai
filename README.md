@@ -17,6 +17,6 @@ I like turning ambiguous problems into explicit systems: state, constraints, int
 ### Selected projects
 - **Reproducible RL research platform** ([CB16-R12](https://github.com/GY-Bai/CB16-R12)): deterministic market-data vault, self-hosted CI across ARM64 and CUDA hosts, preregistered experiments with negative controls.
 - **[superKV](https://github.com/GY-Bai/superKV)**: an experiment in incremental KV-cache compression as a vLLM plugin, and where its limits are.
-- **[RTES_30](https://github.com/GY-Bai/RTES_30)**: real-time Parkinsonian symptom monitor in C++ on an ARM Cortex-M4 (IMU, FFT, BLE).
+- **[RTES_30](https://github.com/GY-Bai/RTES_30)**: real-time Parkinsonian symptom monitor on an ARM Cortex-M4 (5-person course team; I built the C++ firmware framework, 52 Hz sampling and FFT-based detection).
 
 📫 gb2981@nyu.edu
